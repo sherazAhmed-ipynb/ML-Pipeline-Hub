@@ -22,6 +22,7 @@ ML-Pipeline-Hub/
 - Handling missing values
 - Feature scaling & normalization
 - Encoding categorical variables
+- Feature engineering
 
 ### 2️⃣ Data Integration
 - Merging datasets
